@@ -1,1 +1,1 @@
-# Predicting-Human-Decision-Making-in-Autonomous-Vehicle-Moral-Dilemmas-
+# Predicting-Human-Decision-Making-in-Autonomous-Vehicle-Moral-Dilemmas
